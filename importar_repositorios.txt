@@ -1,0 +1,10 @@
+git config --global user.name "ta7alo"
+git config --global user.email "thalesvictormiguel@gmail.com"
+git init
+git remote add origin url
+git pull origin master
+git add .
+git commit -m versão 0.1
+git push origin master 
+ digitar user ta7alo
+ digitar senha  
